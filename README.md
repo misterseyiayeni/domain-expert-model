@@ -1,6 +1,6 @@
 # Domain Expert Model
 
-* This solution deploys a Llama2 Large Language Model on AWS SageMaker, uses input to evaluate generation of domain-specific content, based on chosen domain for fine-tuning.
+* This solution deploys a Llama2 Text Generation Large Language Model on AWS SageMaker, uses input to evaluate generation of domain-specific content, based on chosen domain for fine-tuning.
 
 * The model is then fine-tuned using a dataset relevant to the chosen domain (Financial, Healthcare, IT).
 
